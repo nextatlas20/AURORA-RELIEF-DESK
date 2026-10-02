@@ -1,0 +1,7 @@
+volunteer_id	name	skill	home_zone	priority	preferred_shift	status
+VL-01	Asha Noor	medical	North	8	dawn	assigned
+VL-02	Ben Ives	logistics	East	5	dawn	standby
+VL-03	Cira Sol	medical	North	7	dawn	assigned
+VL-04	Dax Mori	general	West	4	day	assigned
+VL-05	Eno Vale	logistics	South	6	evening	assigned
+VL-06	Fia Ren	general	East	3		unavailable

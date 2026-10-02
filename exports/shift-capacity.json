@@ -1,0 +1,26 @@
+{
+  "cutoff": "2098-08-15T23:59:59Z",
+  "shifts": [
+    {
+      "shift": "dawn",
+      "capacity": 2,
+      "candidates": 3,
+      "assigned": 2,
+      "open_slots": 0
+    },
+    {
+      "shift": "day",
+      "capacity": 1,
+      "candidates": 1,
+      "assigned": 1,
+      "open_slots": 0
+    },
+    {
+      "shift": "evening",
+      "capacity": 1,
+      "candidates": 1,
+      "assigned": 1,
+      "open_slots": 0
+    }
+  ]
+}
