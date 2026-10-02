@@ -1,0 +1,11 @@
+volunteer_id,name,skill,home_zone,priority,active,revision
+VL-01,Asha Noor,medical,North,8,yes,1
+VL-02,Ben Ives,logistics,East,5,yes,1
+VL-03,Cira Sol,medical,North,7,yes,1
+VL-04,Dax Mori,general,West,4,yes,1
+VL-05,Eno Vale,logistics,South,6,yes,1
+VL-06,Fia Ren,general,East,3,yes,1
+VL-07,Gus Hale,general,West,2,yes,1
+VL-07,Gus Hale,general,West,2,no,2
+VL-08,Bad Priority,general,North,07,yes,1
+broken,row
